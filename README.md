@@ -18,4 +18,5 @@ im very new to electronics and hardware and this was a thing for me
 
 # SCREENSHOTS
 
-![alt text](https://github.com/KoushikSivakumar/hackpad/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/KoushikSivakumar/hackpad/blob/main/screenshots/exposedfull.png?raw=true)
+![alt text](https://github.com/KoushikSivakumar/hackpad/blob/main/screenshots/full.png?raw=true)
