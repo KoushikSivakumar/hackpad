@@ -15,3 +15,7 @@ im very new to electronics and hardware and this was a thing for me
 1x EC11E rotary encoder
 1x case, made of 2 printed parts (top.step and bottom.step )
 4x M3x16mm screws
+
+# SCREENSHOTS
+
+![alt text](https://github.com/KoushikSivakumar/hackpad/blob/main/image.jpg?raw=true)
